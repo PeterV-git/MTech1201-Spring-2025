@@ -195,7 +195,7 @@ class Fly {
   }
 
   display() {
-    // Simple cartoon fly
+    // Fly Ebnemy
     fill(0);
     ellipse(this.x, this.y, this.r * 2);       // Body
     fill(150);
